@@ -7,6 +7,7 @@ public class Arithmetic {
 	}
 	
 	public    double  sub(double x,double y) {
+		//performing the subtraction
 		return  x-y;
 	}
 }
