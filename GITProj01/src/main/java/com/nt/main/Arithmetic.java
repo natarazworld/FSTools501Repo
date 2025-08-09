@@ -3,6 +3,7 @@ package com.nt.main;
 public class Arithmetic {
 
 	public  double sum(double x,double y) {
+		//adding two numbers
 		return x+y;
 	}
 	
