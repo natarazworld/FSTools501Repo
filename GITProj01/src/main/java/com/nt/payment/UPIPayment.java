@@ -14,6 +14,13 @@ public class UPIPayment {
 	}
 	
 	
+	public  String    doPaymentUsingAmazonPay(long phoneno, double amount) {
+		return  amount+" payment is done  using  amazonpe on the phone number ::"+phoneno;
+	}
+	
+	
+	
+	
 	
 
 
